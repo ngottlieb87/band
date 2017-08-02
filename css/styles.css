@@ -1,0 +1,24 @@
+img {
+  width: 300px;
+}
+body{
+  background-color: lightgreen;
+  text-align: center;
+}
+.column{
+  width: 290px;
+  display: inline-block;
+  float: top;
+  text-align: left;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+.sidebar{
+  float: right;
+  background-color: #4e82db;
+  margin-top: -50px;
+  height: 100vh;
+}
+.sidebar h1{
+  font-family: 'Pacifico', cursive;
+}
