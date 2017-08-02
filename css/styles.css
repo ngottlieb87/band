@@ -1,9 +1,14 @@
 img {
-  width: 300px;
+  width: 40%;
+  padding: 6px;
 }
 body{
   background-color: lightgreen;
   text-align: center;
+  margin-top: -60px;
+}
+.pagetitle {
+  font-size: 45px;
 }
 .column{
   width: 290px;
@@ -16,9 +21,13 @@ body{
 .sidebar{
   float: right;
   background-color: #4e82db;
-  margin-top: -50px;
   height: 100vh;
+  border: 6px solid darkblue;
+  text-align: left;
+  padding: 60px;
+  font-size: 20px;
 }
 .sidebar h1{
   font-family: 'Pacifico', cursive;
+  text-align: center;
 }
